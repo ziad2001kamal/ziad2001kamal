@@ -27,7 +27,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SASS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Asp-.-net-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Active Server Pages](https://static.gunnarpeipman.com/wp-content/uploads/2020/09/aspnet-featured.png.webp)
 
 
@@ -42,20 +42,16 @@
 # `ِAbout ME :`
 
 
-![ahmed shehata photo](https://avatars.githubusercontent.com/u/11885072?s=400&u=2b956372d2615ca40c2d49390b2c5a5e7511b2a7&v=4)
-
-- **Name** : Ahmed Shehata
-- **Live** : Alexsandria , Egypt :egypt:
-- **education Level** : high school, majoring in decoration and advertising
+- **Name** : Ziad Kamal Al-Numailat
+- **Live** : Gaza , Palestine :palestine:
+- **education ** : Bachelor of Computer Science (IUG)-
 - **Technologis i've** : 
   - [x] HTML . :white_check_mark:
   - [x] CSS .  :white_check_mark:
   - [x] JS .   :white_check_mark:
   - [x] SASS . :white_check_mark:
   - [x] Bootstrap CSS  :white_check_mark:
-  - [x] Tailwinds CSS :white_check_mark: 
-  - [x] React JS  :white_check_mark:
-  - [x] Next JS  :white_check_mark:
+  - [x] ASP.NET :white_check_mark:
   
 
 
