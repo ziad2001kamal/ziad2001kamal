@@ -27,8 +27,8 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SASS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/Asp-.-net-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Active Server Pages](https://static.gunnarpeipman.com/wp-content/uploads/2020/09/aspnet-featured.png.webp)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Active Server Pages](https://pbs.twimg.com/profile_images/1390448160934305793/ohii8Hxq_200x200.png)
 
 
 
